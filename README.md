@@ -64,24 +64,24 @@ You can visit my little corner at <https://tuyen.blog/>.
 
 ### Transform Tools
 
-<div style="text-align:center">
+<p style="text-align:center">
   <a href="https://transform.tuyen.blog/">
     <img src="./images/transform.png" alt="Transform Tools">
   </a>
-</div>
+</p>
 
 ### Code Beautifier
 
-<div style="text-align:center">
+<p style="text-align:center">
   <a href="https://beautifier.tuyen.blog/">
     <img src="./images/beautifier.png" alt="Code Beautifier">
   </a>
-</div>
+</p>
 
 ### Vietnamese Lunar Calendar
 
-<div style="text-align:center">
+<p style="text-align:center">
   <a href="https://tuyen.blog/utils/general/lunar-calendar/">
     <img src="./images/lunar-calendar.png" alt="Vietnamese Lunar Calendar">
   </a>
-</div>
+</p>
